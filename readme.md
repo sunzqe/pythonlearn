@@ -1,0 +1,1 @@
+this is zqe python learning directory
